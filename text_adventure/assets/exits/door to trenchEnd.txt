@@ -1,0 +1,5 @@
+title:trenchEnd
+leadsTo:trenchEnd
+roomDescription:trenchEnd
+object:end of trench, further on, around the corner
+isLocked:false

@@ -1,0 +1,6 @@
+title:door to trench
+leadsTo:trench
+roomDescription:trench entrance
+object:trench, further
+isLocked:false
+

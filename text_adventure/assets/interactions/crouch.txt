@@ -1,0 +1,5 @@
+verb:crouch
+
+event:audio/mute/battleSounds
+
+event:display/beginning

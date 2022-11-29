@@ -1,0 +1,5 @@
+title:beginning
+selfDescription:beginning
+exits:door to trench
+
+startRoom

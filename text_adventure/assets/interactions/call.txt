@@ -1,0 +1,8 @@
+verb:call
+
+event:audio/fadeOut/battleSounds/5
+event:audio/play/elevator/loop
+event:audio/fadeOut/elevator/20
+event:audio/fadeIn/battleSounds/20
+
+event:display/callAdam

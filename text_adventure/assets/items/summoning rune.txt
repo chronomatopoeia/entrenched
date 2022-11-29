@@ -1,0 +1,6 @@
+title:Summoning rune
+selfDescription:rune
+roomDescription:rune
+pickup:true
+inRoom:playerCharacter
+object:summoning rune

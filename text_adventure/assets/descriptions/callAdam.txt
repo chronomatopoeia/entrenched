@@ -1,0 +1,4 @@
+You call out to your non--descript buddy, and he responds, 
+"This is it, John. We've made it this far. I'm not losing you now. Stay close to me." 
+Adam walks off to the left, turning a corner and passing out of view. 
+You need to decide if you will <orange>follow</> Adam or return to <orange>crouch</> in the mud.

@@ -1,0 +1,8 @@
+verb:hello
+
+event:display/trench
+
+event:audio/play/whisper/loop
+event:audio/fadeOut/whisper/20
+
+event:audio/play/battleSounds/loop

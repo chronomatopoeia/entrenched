@@ -1,0 +1,6 @@
+title:gun
+pickup:true
+object:gun
+roomDescription:gun room
+selfDescription:gun self
+inRoom:trench

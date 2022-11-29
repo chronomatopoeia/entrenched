@@ -1,0 +1,5 @@
+verb:drop
+room:cabin
+inventory:cabin/summoning rune
+event:pickup/del/summoning rune/cabin;display/end
+once
